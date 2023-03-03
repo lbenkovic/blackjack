@@ -1,5 +1,5 @@
 let player = {
-    name: "Per",
+    name: "Luka",
     chips: 200
 }
 
